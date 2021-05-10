@@ -1,0 +1,26 @@
+body {
+      
+    background-size:normal;
+    background-repeat:no-repeat
+  }
+  .button {
+    border-radius: 7px;
+    background-color: "#f2f0ee";
+    border-color: white;
+    color: "#5a1370";
+    padding: 2px 10px;
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: "#f2f0ee";
+    color: gold;
+    border-color:gold
+  }
+  .droid {
+   font-family: 'georgia',italic;
+  }
+  
+  
